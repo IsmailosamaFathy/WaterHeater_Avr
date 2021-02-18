@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activewindow="1">
+  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffff99010000f7ffffff4805000053030000</PLACEMENT>
+  <WINDOW type="default" module="STARTUP"/>
+  <WINDOW type="default" module="ISIS"/>
+ </FRAME>
+ <MODULE name="VSMDEBUG">
+  <PWI>
+   <POPUP w="800" x="245" flags="00000002" y="495" h="200" pid="0" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Message Column Width">661</ITEM>
+     <ITEM name="ShowGrid">No</ITEM>
+     <ITEM name="Source Column Width">100</ITEM>
+     <ITEM name="Time Column Width">120</ITEM>
+     <ITEM name="Version">100</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="507" x="1362" flags="00008033" y="518" h="462" pid="1" iid="-1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">82</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Item 0">"PORTA","0x003B",00000001,0000000D,27,1,2,F10B0000,0,00000000,00000000</ITEM>
+     <ITEM name="Item 1">"DDRA","0x003A",00000001,0000000D,26,1,2,8F0B0000,0,00000000,00000000</ITEM>
+     <ITEM name="Item 10">"Time","00800072",00000001,0000000E,114,2,4,00000003,0,00000000,00000000</ITEM>
+     <ITEM name="Item 11">"User_Temp","0080008A",00000001,0000000E,138,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 12">"Disp_Counter","00800060",00000001,0000000E,96,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 2">"ADCSRA","0x0026",00000001,0000000D,6,1,2,54F00000,0,00000000,00000000</ITEM>
+     <ITEM name="Item 3">"ADMUX","0x0027",00000001,0000000D,7,1,2,EA960000,0,00000000,00000000</ITEM>
+     <ITEM name="Item 4">"PORTD","0x0032",00000001,0000000D,18,1,2,E8280000,0,00000000,00000000</ITEM>
+     <ITEM name="Item 5">"TCNT0","00800052",00000001,0000000E,82,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 6">"PORTB","0x0038",00000001,0000000D,24,1,2,39EB0000,0,00000000,00000000</ITEM>
+     <ITEM name="Item 7">"User_Temp","0080008E",00000001,0000000E,142,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 8">"User_Temp","0080008E",00000001,0000000E,142,1,4,00000002,0,00000000,00000000</ITEM>
+     <ITEM name="Item 9">"DDRB","0x0037",00000001,0000000D,23,1,2,B8780000,0,00000000,00000000</ITEM>
+     <ITEM name="Name Column Width">203</ITEM>
+     <ITEM name="Previous Value Column Width">97</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">Yes</ITEM>
+     <ITEM name="ShowTypes">No</ITEM>
+     <ITEM name="ShowWatchPoint">Yes</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Value Column Width">82</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="Watch Expression Column Width">82</ITEM>
+     <ITEM name="nItems">8</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="258" x="88" flags="00000008" y="200" h="255" pid="3" iid="1">
+    <PROPERTIES/>
+   </POPUP>
+   <POPUP w="8" x="108" flags="0000000a" y="220" h="1" pid="10" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="128" flags="0000000a" y="240" h="32" pid="6" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="148" flags="0000000a" y="260" h="32" pid="7" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="168" flags="00000000" y="280" h="32" pid="14" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="188" flags="0000000a" y="300" h="32" pid="4" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000060</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="16" x="208" flags="0000000a" y="320" h="8" pid="13" iid="1">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000020</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="737" x="649" flags="0000002b" y="23" h="345" pid="1" iid="1">
+    <PROPERTIES>
+     <ITEM name="Breakpoint 0">"main",0990,0034,0A52,DD00,-1
+</ITEM>
+     <ITEM name="Breakpoint 1">"Temp_Setting_Update",0E10,009C,482A,ABF8,1
+</ITEM>
+     <ITEM name="Breakpoint 10">"External_EEPROM_Write",06D4,0054,30CB,DE11,1
+</ITEM>
+     <ITEM name="Breakpoint 11">"main",08D4,0036,1176,DD00,1
+</ITEM>
+     <ITEM name="Breakpoint 12">"main",08F0,0052,5458,DD00,1
+</ITEM>
+     <ITEM name="Breakpoint 13">"main",090E,0070,B4E7,DD00,1
+</ITEM>
+     <ITEM name="Breakpoint 14">"main",091C,007E,5B98,DD00,1
+</ITEM>
+     <ITEM name="Breakpoint 15">"Sw_Update",0ACA,001A,C444,1633,-1
+</ITEM>
+     <ITEM name="Breakpoint 16">"Temp_Setting_Update",0D66,0000,6EF9,ABF8,-1
+</ITEM>
+     <ITEM name="Breakpoint 17">"Temp_Setting_Update",0DA0,003A,D911,ABF8,1
+</ITEM>
+     <ITEM name="Breakpoint 18">"Temp_Setting_Update",0DD2,006C,D911,ABF8,1
+</ITEM>
+     <ITEM name="Breakpoint 19">"Temperature_Update",08C2,0010,587A,4295,1
+</ITEM>
+     <ITEM name="Breakpoint 2">"External_EEPROM_Write",06E0,0060,68A1,DE11,1
+</ITEM>
+     <ITEM name="Breakpoint 20">"Temperature_Update",08C2,0010,33C3,4295,1
+</ITEM>
+     <ITEM name="Breakpoint 21">"Get_Temperature",0968,0004,BE92,4295,-1
+</ITEM>
+     <ITEM name="Breakpoint 22">"Temp_Setting_Update",0982,0010,C686,ABF8,-1
+</ITEM>
+     <ITEM name="Breakpoint 23">"Temp_Setting_Update",0992,0020,14AB,ABF8,-1
+</ITEM>
+     <ITEM name="Breakpoint 24">"Temp_Setting_Update",099A,0028,913D,ABF8,-1
+</ITEM>
+     <ITEM name="Breakpoint 25">"Temp_Setting_Update",09A0,002E,26A3,ABF8,-1
+</ITEM>
+     <ITEM name="Breakpoint 26">"Temp_Setting_Get_Status",0A10,0004,BE92,ABF8,-1
+</ITEM>
+     <ITEM name="Breakpoint 3">"External_EEPROM_Write",06E4,0064,68A1,DE11,1
+</ITEM>
+     <ITEM name="Breakpoint 4">"Temp_Setting_Update",0DA0,003A,D911,ABF8,-1
+</ITEM>
+     <ITEM name="Breakpoint 5">"Temp_Setting_Update",0DD2,006C,D911,ABF8,1
+</ITEM>
+     <ITEM name="Breakpoint 6">"External_EEPROM_Write",06DC,005C,68A1,DE11,1
+</ITEM>
+     <ITEM name="Breakpoint 7">"External_EEPROM_Write",06E0,0060,68A1,DE11,1
+</ITEM>
+     <ITEM name="Breakpoint 8">"External_EEPROM_Write",06C8,0048,995B,DE11,-1
+</ITEM>
+     <ITEM name="Breakpoint 9">"External_EEPROM_Write",06E4,0064,68A1,DE11,1
+</ITEM>
+     <ITEM name="CaseSensitive">No</ITEM>
+     <ITEM name="DISPADDRS">Yes</ITEM>
+     <ITEM name="DISPLNUMS">No</ITEM>
+     <ITEM name="DISPOPCODES">No</ITEM>
+     <ITEM name="FIXUPBPTS">Yes</ITEM>
+     <ITEM name="WordsOnly">No</ITEM>
+     <ITEM name="nBreakpoints">2</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="461" x="89" flags="0000000b" y="341" h="371" pid="2" iid="1">
+    <PROPERTIES>
+     <ITEM name="Address Column Width">93</ITEM>
+     <ITEM name="AutoResize">No</ITEM>
+     <ITEM name="Gridlines">Yes</ITEM>
+     <ITEM name="Name Column Width">217</ITEM>
+     <ITEM name="ShowAddresses">Yes</ITEM>
+     <ITEM name="ShowGlobals">Yes</ITEM>
+     <ITEM name="ShowPreviousValues">No</ITEM>
+     <ITEM name="ShowTypes">No</ITEM>
+     <ITEM name="ShowWatchPoint">No</ITEM>
+     <ITEM name="TriggerMode">0</ITEM>
+     <ITEM name="Value Column Width">125</ITEM>
+     <ITEM name="Version">100</ITEM>
+     <ITEM name="nItems">0</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="8" x="899" flags="0000000b" y="531" h="32" pid="101" iid="9">
+    <PROPERTIES>
+     <ITEM name="DataType">2</ITEM>
+     <ITEM name="DispChars">Yes</ITEM>
+     <ITEM name="DispFormat">2</ITEM>
+     <ITEM name="ShowChanges">Yes</ITEM>
+     <ITEM name="ShowToolTips">Yes</ITEM>
+     <ITEM name="TopLineAddress">00000000</ITEM>
+    </PROPERTIES>
+   </POPUP>
+   <POPUP w="695" x="1069" flags="00000000" y="450" h="459" pid="0" iid="10">
+    <PROPERTIES/>
+   </POPUP>
+  </PWI>
+ </MODULE>
+</WORKSPACE>
